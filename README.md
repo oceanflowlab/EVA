@@ -14,6 +14,8 @@ Wangxuan Institute of Computer Technology, Peking University
 [![InternVL3](https://img.shields.io/badge/Backbone-InternVL3--14B-5269A8.svg)](#introduction)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
+**[Project Page](https://ltttpku.github.io/EVA-page/)**
+
 [Introduction](#introduction) | [Installation](#installation) | [Quick Start](#quick-start) | [Evaluation](#evaluation) | [Citation](#citation)
 
 </div>
