@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite EVA when using this code."
+title: "EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: Lei
+    given-names: Ting
+    email: ting_lei@pku.edu.cn
+    affiliation: "Wangxuan Institute of Computer Technology, Peking University"
+  - family-names: Chen
+    given-names: Yu
+    email: yu_chen@stu.pku.edu.cn
+    affiliation: "Wangxuan Institute of Computer Technology, Peking University"
+  - family-names: Liu
+    given-names: Yang
+    email: yangliu@pku.edu.cn
+    affiliation: "Wangxuan Institute of Computer Technology, Peking University"
+

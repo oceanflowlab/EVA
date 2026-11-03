@@ -1,0 +1,3 @@
+-r eval-observed.txt
+timm==1.0.26
+sentencepiece==0.2.1

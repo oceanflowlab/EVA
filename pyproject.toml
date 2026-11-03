@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eva-visual-agent"
+version = "0.1.0"
+description = "Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+authors = [
+  {name = "Ting Lei", email = "ting_lei@pku.edu.cn"},
+  {name = "Yu Chen", email = "yu_chen@stu.pku.edu.cn"},
+  {name = "Yang Liu", email = "yangliu@pku.edu.cn"},
+]
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements/eval.txt"]}
+
+[tool.setuptools.packages.find]
+include = ["eva*", "vlmeval*", "tool_server*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

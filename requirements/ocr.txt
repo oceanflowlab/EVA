@@ -1,0 +1,4 @@
+-r tools.txt
+paddleocr>=3.7,<4
+# Install the CUDA-compatible paddlepaddle-gpu wheel separately.
+

@@ -1,0 +1,10 @@
+-r eval.txt
+transformers==4.54.0
+accelerate==1.13.0
+qwen-vl-utils==0.0.14
+numpy==2.2.6
+pandas==2.3.3
+json-repair==0.59.2
+# Separately install torch==2.7.1 / torchvision==0.22.1 CUDA 12.6 wheels,
+# then flash-attn==2.8.3 --no-build-isolation.
+

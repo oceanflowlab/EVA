@@ -1,0 +1,15 @@
+torch>=2.5,<2.8
+torchvision>=0.20,<0.23
+transformers>=4.49,<5
+fastapi
+uvicorn
+requests
+numpy<3
+pillow>=10
+matplotlib
+opencv-python-headless
+PyYAML
+tqdm
+supervision
+timm
+

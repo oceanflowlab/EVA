@@ -1,0 +1,15 @@
+torch>=2.5
+torchvision>=0.20
+transformers>=5,<6
+accelerate
+huggingface-hub
+fastapi
+uvicorn
+requests
+numpy
+pillow
+PyYAML
+tqdm
+einops
+safetensors
+

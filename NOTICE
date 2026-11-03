@@ -1,0 +1,14 @@
+EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning
+Copyright 2026 Ting Lei, Yu Chen, Yang Liu.
+Wangxuan Institute of Computer Technology, Peking University.
+
+EVA-authored source code and release infrastructure are licensed under Apache-2.0.
+The vlmeval compatibility package contains code derived from VLMEvalKit:
+Copyright 2023 VLMEvalKit Authors. All rights reserved.
+Its Apache-2.0 license is reproduced in licenses/VLMEvalKit-Apache-2.0.txt.
+
+The tool_server worker implementation is adapted from AdaReasoner
+(https://github.com/ssmisya/AdaReasoner). See THIRD_PARTY_NOTICES.md for the
+remaining upstream license verification needed before public distribution.
+The EVA license does not override third-party rights or model/dataset licenses.
+
